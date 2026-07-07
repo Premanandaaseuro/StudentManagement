@@ -4,6 +4,8 @@ public class Student {
 
         System.out.println("Student Management System");
 
+        System.out.println("Welcome Prem");
+
     }
 
 }
