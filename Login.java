@@ -4,6 +4,9 @@ public class Login {
 
         System.out.println("Login Successful");
 
+
+        System.out.println("Welcome to Student Management System");
+
     }
 
 }
